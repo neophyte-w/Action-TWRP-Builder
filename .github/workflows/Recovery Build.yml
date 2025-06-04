@@ -18,7 +18,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'main'
         required: true
-        default: 'android-15'
+        default: 'main'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
