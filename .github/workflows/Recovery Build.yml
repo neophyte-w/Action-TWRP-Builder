@@ -16,9 +16,9 @@ on:
         required: true
         default: 'https://github.com/neophyte-w/android_lahaina_devices_tree'
       DEVICE_TREE_BRANCH:
-        description: 'main'
+        description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'android-15'
+        default: 'android-14'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
